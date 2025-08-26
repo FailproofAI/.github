@@ -4,7 +4,7 @@ To realize this, we are pioneering an open-source infrastructure layer for backg
 
 ### Quick Links:
 - [Website](https://exosphere.host)
-- [Backlog](https://github.com/orgs/exospherehost/projects/1)
+- [Backlog](https://github.com/orgs/exospherehost/projects/2)
 - [Discord](https://discord.com/invite/2zjBZP7yQJ)
 - [Docs](https://docs.exosphere.host)
 - [Vision Video](https://www.youtube.com/watch?v=ChicIuvQCZc)
